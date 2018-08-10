@@ -1,9 +1,9 @@
 body {
     background: white;
     color: black;
-    overflow:hidden;
+    overflow-x:hidden;
     width:100%;
-    max-width:20%;
+    
 }
 
 header {
