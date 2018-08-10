@@ -2,7 +2,7 @@ body {
     background: white;
     color: black;
     overflow-x:hidden;
-	overflow-y:auto;
+    width:100%;
 }
 
 header {
